@@ -17,7 +17,7 @@ Requirement file for the same have been provided and can be installed through
 - 
 - Open command prompt / terminal 
 - Copy and paste these commands one-by-one.
-  > git clone `https://github.com/shubhamsatyam54/AlgoBullsTask.git taskcode <br>
+  > git clone https://github.com/shubhamsatyam54/AlgoBullsTask.git taskcode <br>
   > cd taskcode<br>
   > python -m venv venv<br>
   > venv\Scripts\activate<br>
